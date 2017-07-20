@@ -1,0 +1,9 @@
+#parent{font-size: 30;
+color:#2a52a2;
+margin-top: 10px}
+#parent p:nth-child(2n){
+	color: white;
+	background-color:#2a52a2;
+	width:230px
+}
+li{line-height: 0}

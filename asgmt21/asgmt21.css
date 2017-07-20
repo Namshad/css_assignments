@@ -1,0 +1,58 @@
+fieldset{
+	background-image:linear-gradient(to top,#D3D8E8,white);
+width:500px;
+font-family: Helvetica, Arial, sans-serif;
+font-weight:500;
+border:0px;
+margin: auto
+}
+
+
+div{margin-left: 15px}
+
+.first-name,.Second-name,.email-address,.New-password{
+	width: 230px;
+	height: 40px;
+	margin-bottom: 20px;
+	padding: 20px;
+	font-size: 15;
+	border:1px solid grey ;
+	border-radius: 5px;
+	font-weight: 600
+}
+#email,#password{
+	width: 470px;
+	height: 40px;
+}
+
+
+
+.bday-options{
+	width: 60px;
+	height: 30px;
+	border-radius: 5px
+}
+
+a{float: right;
+font-size: 12;
+margin-right: 140px;
+margin-top: -10px;
+ color:#014193}
+
+.lastpara{font-size: 12;
+color: grey}
+
+span{color: #014193}
+
+
+.button{width:200px;
+	height:40px;
+	font-size:20;
+	font-weight:600;
+	color:white;
+	background-image: linear-gradient(to top,green,lightgreen);
+	border:solid none;
+	border-width:0px;
+	border-radius: 6px;
+	cursor: pointer;
+	}

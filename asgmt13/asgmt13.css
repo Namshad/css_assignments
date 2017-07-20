@@ -1,0 +1,8 @@
+.parent{font-size: 30;
+    text-decoration: none;
+list-style-type: small}
+    a:visited{color: #2a52a2}
+  #child{
+  	text-decoration: none;
+  	color:#5cd65c;
+  }

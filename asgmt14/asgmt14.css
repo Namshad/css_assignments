@@ -1,0 +1,29 @@
+.parent{
+
+}
+li{float: left;
+	line-height: 0px;
+	 list-style-type: none;
+    margin: 1px;
+    padding: 0px;
+    overflow: hidden;
+    background-color:#8EFB91;
+    width: 170px;
+    height: 50px;
+    text-align: center;
+    font-size: 30;
+    color: #2a52a2
+   
+}
+#ft{width: 170px;
+background-color: #E5AD00;
+color: #2a52a2}
+#tt{width: 250px;
+background-color: #E5AD00 }
+li a {
+    display: block;
+    color: #2a52a2;
+    text-align: center;
+    padding: 0px;
+    text-decoration: none;}
+#child{color: white}

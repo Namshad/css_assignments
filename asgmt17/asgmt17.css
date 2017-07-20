@@ -1,0 +1,32 @@
+.red{float: left;
+	width: 100px;
+height: 100px;
+background-color: red;
+color: red;
+border:2px solid black;}
+
+.blue{float: left;
+    width: 100px;
+height: 100px;
+background-color: blue;
+color:blue;
+border:2px solid black
+}
+
+.green{clear: left;
+	width: 100px;
+height: 100px;
+background-color: green;
+color: green;
+border:2px solid black
+}
+
+.yellow{float: left;
+	width: 100px;
+height: 100px;
+background-color: yellow;
+color: yellow;
+border:2px solid black;
+margin-top:-104px;
+margin-left: 104px
+}

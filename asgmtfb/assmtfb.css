@@ -1,0 +1,68 @@
+body{margin: 0;padding: 0;
+background-image:linear-gradient(to top,#D3D8E8,white)}
+#color{background-color:#3b5998}
+.main{
+	font-family:  Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #1d2129
+}
+.fblogo{color: #3b5998;
+	margin-left: 180px;
+	margin-top: 20px
+}
+.text{margin-left: 180px;
+margin-top:30px;
+font-size: 21;
+color:#014193;}
+.imgconnect{
+	margin-left: 180px;
+}
+
+#email{
+	color:white;
+	margin-left:770px;
+margin-top: -330px}
+
+#password{color:white;
+	margin-left:960px;
+margin-top:-35px
+}
+#login{margin-left: 1150px;
+margin-top: -35px}
+
+#ctact{margin-top: 0px;
+	margin-left: 750px;
+	font-size: 39;
+	font-weight: 600;
+	color: #1d2129
+}
+#rtext{
+	margin-left: 750px;
+	margin-top: -30px;
+	font-size: 15
+}
+#names{
+	margin-left: 750px;
+
+}
+#first,#second{
+	margin-top: 10px
+}
+#db{
+	margin-left: 950px;
+	margin-top: -35px;
+	font-size: 12;
+	color: #014193
+}
+#button1{margin-left: 750px
+}
+#p{margin-left: 750px
+	;font-size:10;
+color: grey
+}
+#ct{margin-left: 750px;
+font-weight: 500;
+}
+#last{margin-left: 750px;
+	margin-bottom: 100px;}
+span{color:#014193;}

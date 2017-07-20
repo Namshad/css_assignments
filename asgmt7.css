@@ -1,0 +1,25 @@
+.first{background-color: #041282;
+color: white;}
+
+.text{font-size: 20;
+	padding: 20px;
+	font-size: 15;
+	font-family: arial;
+}
+
+.more{margin-left: 30px;
+width: 140;
+height:50;
+background-color: grey;
+color: white;
+font-weight: 600;
+border: 0;
+font-size: 30
+ }
+ #m2{background-color: #E5AD00}
+ .second{background-color: #FEC925  }
+ .third{background-color: #8EFB91}
+ #m3{background-color: #6CCD6F}
+span{font-size: 30;
+	font-weight: 600
+}

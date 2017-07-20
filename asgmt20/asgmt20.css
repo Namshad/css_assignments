@@ -1,0 +1,18 @@
+table{
+	width: 430px;
+	height: 250px;
+	border-collapse:collapse;
+	font-family: arial
+}
+
+th{background-color: #ccddee}
+
+tr:nth-child(2n){
+	background-color: #ecf2f8}
+
+tr:nth-child(odd){
+	background-color: #ccddee}
+
+td{
+	padding-left: 20px
+}
